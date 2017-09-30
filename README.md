@@ -15,3 +15,12 @@ Goal: submit a PR to this repo that adds your name and email address to the list
 | Omar Yusuf | omaryusuf@outlook.com   |
 | CJ Gossett | BILLPC2684@gmail.com |
 |   |   |
+
+## Links
+
+Here are some important links for the workshop:
+
+* [Ghost Foundation](https://ghost.org)
+* [Ghost Foundation on GitHub](https://github.com/TryGhost)
+* [Ghost Documentation](https://docs.ghost.org)
+* [Ghost Slack Channel](https://slack.ghost.org)
